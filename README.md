@@ -4,15 +4,15 @@
 
 ##### Устав
 
-[Устав](https://github.com/libremir/law/blob/master/charter.md "Устав")
+[Устав](charter.md "Устав Института цифровой экономики им Глушкова В.М.")
 
 ##### Протокол учредительного собрания
 
-[Протокол](https://github.com/libremir/law/blob/master/mom1.md "Протокол")
+[Протокол](mom1.md "Протокол учредительного собрания")
 
 ##### Цели
 
-[Цели](https://github.com/libremir/law/blob/master/charter-mission.md "Цели")
+[Цели](charter-mission.md "Цели")
 
 
 
@@ -21,6 +21,8 @@
 -------------------------------------
 
 ### Конституция
+
+[Конституция РФ](http://www.constitution.ru)
 
 
 ### Федеральные Законы
